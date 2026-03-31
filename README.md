@@ -1,6 +1,9 @@
 Digital Literacy Project
 👤 Student Details
-Name: Naitik Singh Registration Number: 25BCE11406 Course Code: CSE0001 Course Title: Digital Literacy
+Name: Sumit Kumar
+Registration Number: 25BCE11387 
+Course Code: CSE0001 
+Course Title: Digital Literacy
 
 📌 Project Overview
 This project is created as part of the Digital Literacy course. It focuses on building awareness about using digital tools effectively, maintaining a professional online presence, and staying safe from cyber threats.
